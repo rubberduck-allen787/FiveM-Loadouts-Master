@@ -1,2 +1,9 @@
 # FiveM-Loadouts-Master
-Hello, today I am releasing my Loadouts script for use in FiveM. This script is fully customizable and will allow the user to add more loadouts if they so require. This is a simple LUA script that enables a user to carry out a command ingame and this will then spawn the guns for the loadout they require. This is currently set-up for UK Police however users may change it to whatever they desire by editing the WeaponLoadoutSpawn-c.lua file. Below is a Streamable video which explains all you need to know about the script and adding more functionality to it! https://streamable.com/d9dc89 ... For support within this script and any future ideas for releases,please join my Discord and open a ticket! https://discord.gg/PH5WAwwD
+Hello,Thank you for downloading my FiveM Loadouts script. Within this script, it includes code within LUA to make it easy for you to configure yourself!
+To install please remove the -master at the end of the file name, add the WeaponsSpawn to the 'resources' folder within your Server-data. Then head to your server.cfg within Server Data and either 'start' or 'ensure' WeaponsSpawn
+
+I hope you enjoy this release!
+
+Discord
+
+https://discord.gg/PH5WAwwD
